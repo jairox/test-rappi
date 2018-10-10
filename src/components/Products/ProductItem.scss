@@ -1,0 +1,19 @@
+$card-footer-button-bg: #f94c4d;
+
+.product-meta {
+  display: flex;
+
+  .qty {
+    margin-left: auto;
+  }
+}
+
+.card-footer {
+  display: flex;
+  justify-content: center;
+  padding: .5rem 0;
+
+  .button {
+    background-color: $card-footer-button-bg;
+  }
+}

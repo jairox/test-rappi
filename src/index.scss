@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+$family-sans-serif: "Nunito", sans-serif;
+
+$primary: #f33959;
+$menu-item-active-background-color: $primary;
+$input-arrow: $primary;
+
+$navbar-dropdown-arrow: $primary;
+
+$input-focus-border-color: $primary;
+$input-focus-box-shadow-color: rgba($primary, 0.25);
+
+$button-focus-border-color: $primary;
+$button-focus-box-shadow-color: rgba($primary, 0.25);
+
+@import "~bulma";

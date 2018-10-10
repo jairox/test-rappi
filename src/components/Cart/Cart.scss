@@ -1,0 +1,22 @@
+.cart-icon {
+  width: 20px;
+}
+
+.cart-dropdown {
+  min-width: 200px;
+  left: unset;
+  right: 0;
+}
+
+.cart-item {
+  display: flex;
+
+  .cart-item-price {
+    margin-left: auto;
+  }
+
+  .trash-icon {
+    width: 15px;
+    margin-left: 10px;
+  }
+}
